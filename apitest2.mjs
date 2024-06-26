@@ -1,9 +1,10 @@
-const response  =  await fetch(
+const response = await fetch(
     "https://www.york.cuny.edu/++api++/events",
     { method: "GET" }
-);
+)
 
 const { items } = await response.json();
+
 const eventList = items.map(item => item["@id"]);
 eventList.shift();
 

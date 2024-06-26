@@ -1,3 +1,4 @@
+import json
 import requests
 
 def get_event_list():
@@ -5,7 +6,7 @@ def get_event_list():
     response.raise_for_status()
     items = response.json()["items"]
     event_list = [item["@id"] for item in items]
-    event_list.pop(0)  # Shift the first element
+    event_list.pop(0)  # Remove the first element
     return event_list
 
 def insert_api_name(uri):
@@ -33,7 +34,11 @@ def get_event_details(event_list):
         })
     return event_details
 
+
 event_list = get_event_list()
+
 event_details = get_event_details(event_list)
 
-print(event_details)
+
+pretty_json = json.dumps(event_details, indent=4)
+print(pretty_json)

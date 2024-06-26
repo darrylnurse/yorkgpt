@@ -14,3 +14,7 @@ Large Language Models (LLMs) are models trained on vast amounts of textual data 
 Small Language Models (SLMs) are not trained on vast amounts of data, but rather precise information relating to its use case. While their ability to process language structures and semantics is less than that of LLMs, they benefit from superior efficiency and computational resourcefulness, as they are designed to operate within smaller, more defined scopes.
 
 ## Applications of LLMs and SLMs
+
+LLMs are often used in general-purpose ChatBot applications, where they are able to generate responses for a wide variety of prompts in different contexts. This flexibility is due to their large training-data sets, and allows them to be useful tools for tasks among disciplines such as writing human-like text, programming and mathematics, searching for information and general conversation.
+
+SLMs can also be used in ChatBot applications, however, these ChatBots are tailored to specific needs, often those of business and corporations. SLMs in these contexts are able to generate a smaller variety of responses, which are related to the company that utilizes them. Often, these responses will inform users of offered services, contact information, and relevant links and resources.

@@ -1,0 +1,1 @@
+The current proposed model for training can be found [here](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct).

@@ -1,0 +1,1 @@
+[Instructions for hosting on Ollama.](https://github.com/ollama/ollama/blob/main/docs/modelfile.md)

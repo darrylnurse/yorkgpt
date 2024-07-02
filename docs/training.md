@@ -7,3 +7,4 @@ Some proposed models for training are:
 Good video reference:
 
 [Full Tutorial to Create a Dataset, a Fine-Tuned Model, and Push to Hugging Face](https://youtu.be/tjahjuROCWk?si=mqBMvB2YQ-XFqLNm)
+[SQuAD Question Answering Fine-tuning](https://github.com/huggingface/transformers/tree/v4.37.0/examples/pytorch/question-answering)

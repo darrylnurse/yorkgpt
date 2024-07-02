@@ -4,15 +4,15 @@ import os
 
 def get_event_list(endpoints):
 
-    combined_dict = {}
+    combined_response = {}
 
     for endpoint in endpoints:
         response = requests.get(endpoint)
         response.raise_for_status()
         data = response.json()
-        combined_dict.update(data)
+        combined_response.update(data)
 
-    items = combined_dict["items"]
+    items = combined_response["items"]
     print("Initial API response items:", items)
     if not items:
         print("No events found.")
@@ -57,7 +57,10 @@ def get_event_details(event_list):
         event_details.append(event_detail)
     return event_details
 
-endpoints = ["https://www.york.cuny.edu/++api++/admissions", "https://www.york.cuny.edu/++api++/"]
+endpoints = [
+    "https://www.york.cuny.edu/++api++/admissions",
+    "https://www.york.cuny.edu/++api++/"
+]
 
 event_list = get_event_list(endpoints)
 if event_list:

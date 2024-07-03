@@ -1,386 +1,386 @@
 [
-    {
-        "answers": {
-            "text": [
-                "The Academic Advisement Center empowers students to develop the skills and knowledge they need to achieve their academic, professional, and personal goals."
-            ],
-            "answer_start": [
-                27
-            ]
-        },
-        "context": "Academic Advisement Center The Academic Advisement Center empowers students to develop the skills and knowledge they need to achieve their academic, professional, and personal goals. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "5c896541573dfc3f1a9309c1014784f6",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Academic Advisement Center.",
-        "title": "Academic Advisement Center"
-    },
-    {
-        "answers": {
-            "text": [
-                "The Division of Academic Affairs webpage provides information about our organization, programs, and operations."
-            ],
-            "answer_start": [
-                17
-            ]
-        },
-        "context": "Academic Affairs The Division of Academic Affairs webpage provides information about our organization, programs, and operations. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "f8fa912c1e8cbdf6d2232623dffb3028",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Academic Affairs.",
-        "title": "Academic Affairs"
-    },
-    {
-        "answers": {
-            "text": [
-                "The Division of Academic Affairs fosters an engaging and effective educational environment that promotes the pursuit of outstanding teaching and learning; research, scholarship, and other creative endeavors; and service."
-            ],
-            "answer_start": [
-                10
-            ]
-        },
-        "context": "Academics The Division of Academic Affairs fosters an engaging and effective educational environment that promotes the pursuit of outstanding teaching and learning; research, scholarship, and other creative endeavors; and service. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "50645a93a65e40c19dcba7e0990ca251",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Academics.",
-        "title": "Academics"
-    },
-    {
-        "answers": {
-            "text": [
-                "ACE at York College is a comprehensive program designed to help students complete their academic journey to the bachelor\u2019s degree on time."
-            ],
-            "answer_start": [
-                29
-            ]
-        },
-        "context": "Accelerate, Complete, Engage ACE at York College is a comprehensive program designed to help students complete their academic journey to the bachelor\u2019s degree on time. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "b5558fb0ff5d4eaca2539bd935f600ce",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Accelerate, Complete, Engage.",
-        "title": "Accelerate, Complete, Engage"
-    },
-    {
-        "answers": {
-            "text": [
-                "It is the policy of the University to recruit, employ, retain, promote, and provide benefits to employees and to admit and provide services for students without regard to disability or any other legally prohibited basis in accordance with federal, state and city laws."
-            ],
-            "answer_start": [
-                26
-            ]
-        },
-        "context": "Accessibility Information It is the policy of the University to recruit, employ, retain, promote, and provide benefits to employees and to admit and provide services for students without regard to disability or any other legally prohibited basis in accordance with federal, state and city laws. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "6748a5bc007b4ad9833c5fde3d6930cd",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Accessibility Information.",
-        "title": "Accessibility Information"
-    },
-    {
-        "answers": {
-            "text": [
-                "The areas that report to the Chief Operating Officer encompass all functions that enable the college to assist every facet of the academic program and student development."
-            ],
-            "answer_start": [
-                23
-            ]
-        },
-        "context": "Administrative Affairs The areas that report to the Chief Operating Officer encompass all functions that enable the college to assist every facet of the academic program and student development. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "5800f9f7f617ac034068039ada32b541",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Administrative Affairs.",
-        "title": "Administrative Affairs"
-    },
-    {
-        "answers": {
-            "text": [
-                "The Office of Admissions is the first point of contact between prospective students and York College."
-            ],
-            "answer_start": [
-                11
-            ]
-        },
-        "context": "Admissions The Office of Admissions is the first point of contact between prospective students and York College. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "8a7b3c5926e94ac8acd581c52f528f2b",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Admissions.",
-        "title": "Admissions"
-    },
-    {
-        "answers": {
-            "text": [
-                "A Resource for Community Research"
-            ],
-            "answer_start": [
-                24
-            ]
-        },
-        "context": "Africana Studies Center A Resource for Community Research Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "5754c0809293ed4539c6e60d4429c062",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Africana Studies Center.",
-        "title": "Africana Studies Center"
-    },
-    {
-        "answers": {
-            "text": [
-                "Welcome Alumni! Whether you graduated recently or many years ago, this platform is designed to keep you informed, involved, and inspired. As one of York's 36,000 alumni, you are part of a powerful network of professionals."
-            ],
-            "answer_start": [
-                18
-            ]
-        },
-        "context": "Alumni/Supporters Welcome Alumni! Whether you graduated recently or many years ago, this platform is designed to keep you informed, involved, and inspired. As one of York's 36,000 alumni, you are part of a powerful network of professionals. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "80f6ee1937164b62ab8f7cac987f3971",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Alumni/Supporters.",
-        "title": "Alumni/Supporters"
-    },
-    {
-        "answers": {
-            "text": [
-                "York College is a leader in re-establishing the Reserved Officer Training Corps (ROTC) at CUNY. Our focus is on providing another opportunity for students to have leadership training and career opportunities."
-            ],
-            "answer_start": [
-                29
-            ]
-        },
-        "context": "Army ROTC | Military Science York College is a leader in re-establishing the Reserved Officer Training Corps (ROTC) at CUNY. Our focus is on providing another opportunity for students to have leadership training and career opportunities. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "2da338fdd4044cd4a820f1baa22ef7f3",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Army ROTC | Military Science.",
-        "title": "Army ROTC | Military Science"
-    },
-    {
-        "answers": {
-            "text": [
-                ""
-            ],
-            "answer_start": [
-                0
-            ]
-        },
-        "context": "Athletics  Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "9c23483a6cc44b40920b9c6c171d04bb",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Athletics.",
-        "title": "Athletics"
-    },
-    {
-        "answers": {
-            "text": [
-                ""
-            ],
-            "answer_start": [
-                0
-            ]
-        },
-        "context": "Audio-repository  Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "48a8e9611ad74a89b07e412e490fc59f",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Audio-repository.",
-        "title": "Audio-repository"
-    },
-    {
-        "answers": {
-            "text": [
-                "The JFK Redevelopment Aviation and Aeronautics Academy at York College (JFKR AAA) aims to expose local youth to science, technology, engineering, and math concepts related to aviation, aeronautics, and airport management, as well as to introduce them to leadership and career opportunities in the industry. "
-            ],
-            "answer_start": [
-                33
-            ]
-        },
-        "context": "Aviation and Aeronautics Academy The JFK Redevelopment Aviation and Aeronautics Academy at York College (JFKR AAA) aims to expose local youth to science, technology, engineering, and math concepts related to aviation, aeronautics, and airport management, as well as to introduce them to leadership and career opportunities in the industry.  Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "dae27a1e9fc74230847da3d6e2558b4a",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Aviation and Aeronautics Academy.",
-        "title": "Aviation and Aeronautics Academy"
-    },
-    {
-        "answers": {
-            "text": [
-                "York College Calendar of Events"
-            ],
-            "answer_start": [
-                9
-            ]
-        },
-        "context": "Calendar York College Calendar of Events Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "8ec0f8664dc74a58bfca6720f171fc87",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Calendar.",
-        "title": "Calendar"
-    },
-    {
-        "answers": {
-            "text": [
-                "Career Services provides services that integrate students' academic, personal, experiential and career ambitions to meet the marketplace."
-            ],
-            "answer_start": [
-                23
-            ]
-        },
-        "context": "Career Resource Center Career Services provides services that integrate students' academic, personal, experiential and career ambitions to meet the marketplace. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "65b577986ac14df4ad19ba7656211fec",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Career Resource Center.",
-        "title": "Career Resource Center"
-    },
-    {
-        "answers": {
-            "text": [
-                "York CARES Wellness Services"
-            ],
-            "answer_start": [
-                6
-            ]
-        },
-        "context": "CARES York CARES Wellness Services Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "24109c5fa58e4ec78cfbd645c20c42d8",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's CARES.",
-        "title": "CARES"
-    },
-    {
-        "answers": {
-            "text": [
-                "At CSD, our mission is to provide a supportive and inclusive college experience for students with disabilities. We do this by providing reasonable accommodations and promoting awareness of disability rights among the York College community."
-            ],
-            "answer_start": [
-                38
-            ]
-        },
-        "context": "Center for Students with Disabilities At CSD, our mission is to provide a supportive and inclusive college experience for students with disabilities. We do this by providing reasonable accommodations and promoting awareness of disability rights among the York College community. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "8387f3cbcbfd4d88927e3afa0d7f46dc",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Center for Students with Disabilities.",
-        "title": "Center for Students with Disabilities"
-    },
-    {
-        "answers": {
-            "text": [
-                "The Center for Teaching, Learning, and Educational Technologies (CTLET) is committed to inspiring, promoting, and supporting effective, engaging and rewarding teaching and learning."
-            ],
-            "answer_start": [
-                60
-            ]
-        },
-        "context": "Center For Teaching, Learning, and Educational Technologies The Center for Teaching, Learning, and Educational Technologies (CTLET) is committed to inspiring, promoting, and supporting effective, engaging and rewarding teaching and learning. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "5acba6bcce7b4f8d881caae26ad737a5",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Center For Teaching, Learning, and Educational Technologies.",
-        "title": "Center For Teaching, Learning, and Educational Technologies"
-    },
-    {
-        "answers": {
-            "text": [
-                "The York College Child and Family Center, located on the site of the former St. Monica's church, provides quality childcare and early education program for children of York College Students, Faculty, and Staff."
-            ],
-            "answer_start": [
-                37
-            ]
-        },
-        "context": "York College Child and Family Center The York College Child and Family Center, located on the site of the former St. Monica's church, provides quality childcare and early education program for children of York College Students, Faculty, and Staff. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "993ac5ff750b4469a1bdb3b617331a6f",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's York College Child and Family Center.",
-        "title": "York College Child and Family Center"
-    },
-    {
-        "answers": {
-            "text": [
-                "Calling All High School Seniors. Want to become a Teacher? A Clinical Lab Scientist?"
-            ],
-            "answer_start": [
-                15
-            ]
-        },
-        "context": "Cohort program Calling All High School Seniors. Want to become a Teacher? A Clinical Lab Scientist? Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "25217f807e8a493da5ce563ac2ffd34a",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Cohort program.",
-        "title": "Cohort program"
-    },
-    {
-        "answers": {
-            "text": [
-                "The CLC offers online and in-person tutoring in AC-1C18."
-            ],
-            "answer_start": [
-                30
-            ]
-        },
-        "context": "Collaborative Learning Center The CLC offers online and in-person tutoring in AC-1C18. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "1298985fb3c14766ba17e7baf4ded6f7",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Collaborative Learning Center.",
-        "title": "Collaborative Learning Center"
-    },
-    {
-        "answers": {
-            "text": [
-                "The CLA is a national program for colleges to assess their efforts to develop the critical thinking, analytical reasoning, writing, and problem-solving skills."
-            ],
-            "answer_start": [
-                28
-            ]
-        },
-        "context": "College Learning Assessment The CLA is a national program for colleges to assess their efforts to develop the critical thinking, analytical reasoning, writing, and problem-solving skills. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "4ff8e0d0f4994366bf3ef075256e5620",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's College Learning Assessment.",
-        "title": "College Learning Assessment"
-    },
-    {
-        "answers": {
-            "text": [
-                "It is never too early to start. Join our College Now classes and workshops. Remember, you will never win if you never begin. When you commit, you begin on the road to success."
-            ],
-            "answer_start": [
-                12
-            ]
-        },
-        "context": "College Now It is never too early to start. Join our College Now classes and workshops. Remember, you will never win if you never begin. When you commit, you begin on the road to success. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "79f81dce30af4c76ad730be9762f53bb",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's College Now.",
-        "title": "College Now"
-    },
-    {
-        "answers": {
-            "text": [
-                "Congratulations on your upcoming graduation! We are so excited and proud to celebrate this milestone with you, your family, and your friends."
-            ],
-            "answer_start": [
-                13
-            ]
-        },
-        "context": "Commencement Congratulations on your upcoming graduation! We are so excited and proud to celebrate this milestone with you, your family, and your friends. Start: No start time provided. End: No end time provided. Location: No location provided.",
-        "id": "5e09ab4de67f44d18ee29829f151d2eb",
-        "is_impossible": false,
-        "plausible_answers": [],
-        "question": "Provide details about CUNY York College's Commencement.",
-        "title": "Commencement"
-    }
+    [
+        {
+            "answers": {
+                "text": [
+                    "The Academic Advisement Center empowers students to develop the skills and knowledge they need to achieve their academic, professional, and personal goals."
+                ],
+                "answer_start": [
+                    27
+                ]
+            },
+            "context": "Academic Advisement Center The Academic Advisement Center empowers students to develop the skills and knowledge they need to achieve their academic, professional, and personal goals. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "5c896541573dfc3f1a9309c1014784f6",
+            "question": "Provide details about CUNY York College's Academic Advisement Center.",
+            "title": "Academic Advisement Center"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The Division of Academic Affairs webpage provides information about our organization, programs, and operations."
+                ],
+                "answer_start": [
+                    17
+                ]
+            },
+            "context": "Academic Affairs The Division of Academic Affairs webpage provides information about our organization, programs, and operations. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "f8fa912c1e8cbdf6d2232623dffb3028",
+            "question": "Provide details about CUNY York College's Academic Affairs.",
+            "title": "Academic Affairs"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The Division of Academic Affairs fosters an engaging and effective educational environment that promotes the pursuit of outstanding teaching and learning; research, scholarship, and other creative endeavors; and service."
+                ],
+                "answer_start": [
+                    10
+                ]
+            },
+            "context": "Academics The Division of Academic Affairs fosters an engaging and effective educational environment that promotes the pursuit of outstanding teaching and learning; research, scholarship, and other creative endeavors; and service. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "50645a93a65e40c19dcba7e0990ca251",
+            "question": "Provide details about CUNY York College's Academics.",
+            "title": "Academics"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "ACE at York College is a comprehensive program designed to help students complete their academic journey to the bachelor\u2019s degree on time."
+                ],
+                "answer_start": [
+                    29
+                ]
+            },
+            "context": "Accelerate, Complete, Engage ACE at York College is a comprehensive program designed to help students complete their academic journey to the bachelor\u2019s degree on time. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "b5558fb0ff5d4eaca2539bd935f600ce",
+            "question": "Provide details about CUNY York College's Accelerate, Complete, Engage.",
+            "title": "Accelerate, Complete, Engage"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "It is the policy of the University to recruit, employ, retain, promote, and provide benefits to employees and to admit and provide services for students without regard to disability or any other legally prohibited basis in accordance with federal, state and city laws."
+                ],
+                "answer_start": [
+                    26
+                ]
+            },
+            "context": "Accessibility Information It is the policy of the University to recruit, employ, retain, promote, and provide benefits to employees and to admit and provide services for students without regard to disability or any other legally prohibited basis in accordance with federal, state and city laws. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "6748a5bc007b4ad9833c5fde3d6930cd",
+            "question": "Provide details about CUNY York College's Accessibility Information.",
+            "title": "Accessibility Information"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The areas that report to the Chief Operating Officer encompass all functions that enable the college to assist every facet of the academic program and student development."
+                ],
+                "answer_start": [
+                    23
+                ]
+            },
+            "context": "Administrative Affairs The areas that report to the Chief Operating Officer encompass all functions that enable the college to assist every facet of the academic program and student development. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "5800f9f7f617ac034068039ada32b541",
+            "question": "Provide details about CUNY York College's Administrative Affairs.",
+            "title": "Administrative Affairs"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The Office of Admissions is the first point of contact between prospective students and York College."
+                ],
+                "answer_start": [
+                    11
+                ]
+            },
+            "context": "Admissions The Office of Admissions is the first point of contact between prospective students and York College. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "8a7b3c5926e94ac8acd581c52f528f2b",
+            "question": "Provide details about CUNY York College's Admissions.",
+            "title": "Admissions"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "A Resource for Community Research"
+                ],
+                "answer_start": [
+                    24
+                ]
+            },
+            "context": "Africana Studies Center A Resource for Community Research Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "5754c0809293ed4539c6e60d4429c062",
+            "question": "Provide details about CUNY York College's Africana Studies Center.",
+            "title": "Africana Studies Center"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "Welcome Alumni! Whether you graduated recently or many years ago, this platform is designed to keep you informed, involved, and inspired. As one of York's 36,000 alumni, you are part of a powerful network of professionals."
+                ],
+                "answer_start": [
+                    18
+                ]
+            },
+            "context": "Alumni/Supporters Welcome Alumni! Whether you graduated recently or many years ago, this platform is designed to keep you informed, involved, and inspired. As one of York's 36,000 alumni, you are part of a powerful network of professionals. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "80f6ee1937164b62ab8f7cac987f3971",
+            "question": "Provide details about CUNY York College's Alumni/Supporters.",
+            "title": "Alumni/Supporters"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "York College is a leader in re-establishing the Reserved Officer Training Corps (ROTC) at CUNY. Our focus is on providing another opportunity for students to have leadership training and career opportunities."
+                ],
+                "answer_start": [
+                    29
+                ]
+            },
+            "context": "Army ROTC | Military Science York College is a leader in re-establishing the Reserved Officer Training Corps (ROTC) at CUNY. Our focus is on providing another opportunity for students to have leadership training and career opportunities. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "2da338fdd4044cd4a820f1baa22ef7f3",
+            "question": "Provide details about CUNY York College's Army ROTC | Military Science.",
+            "title": "Army ROTC | Military Science"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    ""
+                ],
+                "answer_start": [
+                    0
+                ]
+            },
+            "context": "Athletics  Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "9c23483a6cc44b40920b9c6c171d04bb",
+            "question": "Provide details about CUNY York College's Athletics.",
+            "title": "Athletics"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    ""
+                ],
+                "answer_start": [
+                    0
+                ]
+            },
+            "context": "Audio-repository  Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "48a8e9611ad74a89b07e412e490fc59f",
+            "question": "Provide details about CUNY York College's Audio-repository.",
+            "title": "Audio-repository"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The JFK Redevelopment Aviation and Aeronautics Academy at York College (JFKR AAA) aims to expose local youth to science, technology, engineering, and math concepts related to aviation, aeronautics, and airport management, as well as to introduce them to leadership and career opportunities in the industry. "
+                ],
+                "answer_start": [
+                    33
+                ]
+            },
+            "context": "Aviation and Aeronautics Academy The JFK Redevelopment Aviation and Aeronautics Academy at York College (JFKR AAA) aims to expose local youth to science, technology, engineering, and math concepts related to aviation, aeronautics, and airport management, as well as to introduce them to leadership and career opportunities in the industry.  Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "dae27a1e9fc74230847da3d6e2558b4a",
+            "question": "Provide details about CUNY York College's Aviation and Aeronautics Academy.",
+            "title": "Aviation and Aeronautics Academy"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "York College Calendar of Events"
+                ],
+                "answer_start": [
+                    9
+                ]
+            },
+            "context": "Calendar York College Calendar of Events Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "8ec0f8664dc74a58bfca6720f171fc87",
+            "question": "Provide details about CUNY York College's Calendar.",
+            "title": "Calendar"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "Career Services provides services that integrate students' academic, personal, experiential and career ambitions to meet the marketplace."
+                ],
+                "answer_start": [
+                    23
+                ]
+            },
+            "context": "Career Resource Center Career Services provides services that integrate students' academic, personal, experiential and career ambitions to meet the marketplace. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "65b577986ac14df4ad19ba7656211fec",
+            "question": "Provide details about CUNY York College's Career Resource Center.",
+            "title": "Career Resource Center"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "York CARES Wellness Services"
+                ],
+                "answer_start": [
+                    6
+                ]
+            },
+            "context": "CARES York CARES Wellness Services Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "24109c5fa58e4ec78cfbd645c20c42d8",
+            "question": "Provide details about CUNY York College's CARES.",
+            "title": "CARES"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "At CSD, our mission is to provide a supportive and inclusive college experience for students with disabilities. We do this by providing reasonable accommodations and promoting awareness of disability rights among the York College community."
+                ],
+                "answer_start": [
+                    38
+                ]
+            },
+            "context": "Center for Students with Disabilities At CSD, our mission is to provide a supportive and inclusive college experience for students with disabilities. We do this by providing reasonable accommodations and promoting awareness of disability rights among the York College community. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "8387f3cbcbfd4d88927e3afa0d7f46dc",
+            "question": "Provide details about CUNY York College's Center for Students with Disabilities.",
+            "title": "Center for Students with Disabilities"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The Center for Teaching, Learning, and Educational Technologies (CTLET) is committed to inspiring, promoting, and supporting effective, engaging and rewarding teaching and learning."
+                ],
+                "answer_start": [
+                    60
+                ]
+            },
+            "context": "Center For Teaching, Learning, and Educational Technologies The Center for Teaching, Learning, and Educational Technologies (CTLET) is committed to inspiring, promoting, and supporting effective, engaging and rewarding teaching and learning. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "5acba6bcce7b4f8d881caae26ad737a5",
+            "question": "Provide details about CUNY York College's Center For Teaching, Learning, and Educational Technologies.",
+            "title": "Center For Teaching, Learning, and Educational Technologies"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The York College Child and Family Center, located on the site of the former St. Monica's church, provides quality childcare and early education program for children of York College Students, Faculty, and Staff."
+                ],
+                "answer_start": [
+                    37
+                ]
+            },
+            "context": "York College Child and Family Center The York College Child and Family Center, located on the site of the former St. Monica's church, provides quality childcare and early education program for children of York College Students, Faculty, and Staff. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "993ac5ff750b4469a1bdb3b617331a6f",
+            "question": "Provide details about CUNY York College's York College Child and Family Center.",
+            "title": "York College Child and Family Center"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "Calling All High School Seniors. Want to become a Teacher? A Clinical Lab Scientist?"
+                ],
+                "answer_start": [
+                    15
+                ]
+            },
+            "context": "Cohort program Calling All High School Seniors. Want to become a Teacher? A Clinical Lab Scientist? Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "25217f807e8a493da5ce563ac2ffd34a",
+            "question": "Provide details about CUNY York College's Cohort program.",
+            "title": "Cohort program"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The CLC offers online and in-person tutoring in AC-1C18."
+                ],
+                "answer_start": [
+                    30
+                ]
+            },
+            "context": "Collaborative Learning Center The CLC offers online and in-person tutoring in AC-1C18. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "1298985fb3c14766ba17e7baf4ded6f7",
+            "question": "Provide details about CUNY York College's Collaborative Learning Center.",
+            "title": "Collaborative Learning Center"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "The CLA is a national program for colleges to assess their efforts to develop the critical thinking, analytical reasoning, writing, and problem-solving skills."
+                ],
+                "answer_start": [
+                    28
+                ]
+            },
+            "context": "College Learning Assessment The CLA is a national program for colleges to assess their efforts to develop the critical thinking, analytical reasoning, writing, and problem-solving skills. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "4ff8e0d0f4994366bf3ef075256e5620",
+            "question": "Provide details about CUNY York College's College Learning Assessment.",
+            "title": "College Learning Assessment"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "It is never too early to start. Join our College Now classes and workshops. Remember, you will never win if you never begin. When you commit, you begin on the road to success."
+                ],
+                "answer_start": [
+                    12
+                ]
+            },
+            "context": "College Now It is never too early to start. Join our College Now classes and workshops. Remember, you will never win if you never begin. When you commit, you begin on the road to success. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "79f81dce30af4c76ad730be9762f53bb",
+            "question": "Provide details about CUNY York College's College Now.",
+            "title": "College Now"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "Congratulations on your upcoming graduation! We are so excited and proud to celebrate this milestone with you, your family, and your friends."
+                ],
+                "answer_start": [
+                    13
+                ]
+            },
+            "context": "Commencement Congratulations on your upcoming graduation! We are so excited and proud to celebrate this milestone with you, your family, and your friends. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "5e09ab4de67f44d18ee29829f151d2eb",
+            "question": "Provide details about CUNY York College's Commencement.",
+            "title": "Commencement"
+        }
+    ]
 ]

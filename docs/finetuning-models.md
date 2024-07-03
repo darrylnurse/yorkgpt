@@ -7,10 +7,13 @@ Smaller models are able to generate responses more quickly, and require less res
 
 
 Some proposed models for finetuning are:
+
 * [Microsoft Phi-3-mini](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) - 3.82B params
 * [stablelm-2-1_6B](https://huggingface.co/stabilityai/stablelm-2-1_6b) - 1.64B params
 * [roberta-base-sqaud2](https://huggingface.co/deepset/roberta-base-squad2) (This one is currently used) - 124M params
 * [minilm-uncased-squad2](https://huggingface.co/deepset/minilm-uncased-squad2) 33.4M params
+
+[YorkGPT Huggingface Dataset Repository](https://huggingface.co/datasets/darrylnurse/yorkgpt)
 
 References:
 

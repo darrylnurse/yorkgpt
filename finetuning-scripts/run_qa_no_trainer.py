@@ -480,8 +480,8 @@ def main():
     # Training preprocessing
     def prepare_train_features(examples):
         # Some of the questions have lots of whitespace on the left, which is not useful and will make the
-        # truncation of the context fail (the tokenized question will take a lots of space). So we remove that
-        # left whitespace
+        # truncation of the context fail (the tokenized question will take a lot of space). So we remove that
+        # left whitespace.
         examples[question_column_name] = [q.lstrip() for q in examples[question_column_name]]
 
         # Tokenize our examples with truncation and maybe padding, but keep the overflows using a stride. This results
@@ -549,11 +549,12 @@ def main():
                     while token_start_index < len(offsets) and offsets[token_start_index][0] <= start_char:
                         token_start_index += 1
                     tokenized_examples["start_positions"].append(token_start_index - 1)
-                    while offsets[token_end_index][1] >= end_char:
+                    while token_end_index >= 0 and offsets[token_end_index][1] >= end_char:
                         token_end_index -= 1
                     tokenized_examples["end_positions"].append(token_end_index + 1)
 
         return tokenized_examples
+
 
     if "train" not in raw_datasets:
         raise ValueError("--do_train requires a train dataset")

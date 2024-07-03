@@ -16,6 +16,7 @@ References:
 
 * [SQuAD Question Answering Fine-tuning](https://github.com/huggingface/transformers/tree/v4.37.0/examples/pytorch/question-answering)
 * [SQuAD Datasets](https://www.tensorflow.org/datasets/catalog/squad)
+* [Creating a Dataset on the Huggingface Dataset Registry](https://huggingface.co/docs/datasets/repository_structure)
 
 
 
@@ -26,10 +27,9 @@ Dependencies for finetuning:
 3. pip install torch
 4. pip install evaluate
 5. pip install transformers
-6. download utils_qa.py and run_qa_no_trainer.py from the [Transformers Github Question Answering Directory.](https://github.com/huggingface/transformers/tree/v4.37.0/examples/pytorch/question-answering)
 
 
-Then, run in this in the Terminal:
+Then, run in this in the Terminal (YorkGPT CWD):
 
 python run_qa_no_trainer.py --model_name_or_path deepset/roberta-base-squad2 --dataset_name squad_v2 --train_file <**location of your dataset (json or csv file)**> --max_seq_length 384 --doc_stride 128 --output_dir <**output location of your model**>
 

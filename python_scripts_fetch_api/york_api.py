@@ -47,8 +47,6 @@ def get_event_details(event_list):
                 },
             "context": context,
             "id": event_data.get("UID", "No ID provided"),
-            "is_impossible": False,
-            "plausible_answers": [],
             "question": question,
             "title": title
         }

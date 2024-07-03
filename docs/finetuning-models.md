@@ -34,6 +34,6 @@ Dependencies for finetuning:
 
 Then, run in this in the Terminal (YorkGPT CWD):
 
-python run_qa_no_trainer.py --model_name_or_path deepset/roberta-base-squad2 --dataset_name squad_v2 --train_file <**location of your dataset (json or csv file)**> --max_seq_length 384 --doc_stride 128 --output_dir <**output location of your model**>
+python finetuning-scripts/run_qa_no_trainer.py --model_name_or_path deepset/roberta-base-squad2 --dataset_name squad_v2 --train_file <**location of your dataset (json or csv file)**> --max_seq_length 384 --doc_stride 128 --output_dir <**output location of your model**>
 
 You can replace "deepset/roberta-base-squad2" with a model of your choice.

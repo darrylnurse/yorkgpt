@@ -39,17 +39,13 @@ def get_event_details(event_list):
 
         context = f"{title} {description} Start: {start}. End: {end}. Location: {location}."
         question = f"Provide details about CUNY York College's {title}."
-        event_detail = [{
-            "answers": 
-                {
-                    "text": [description],
-                    "answer_start": [context.find(description)]
-                },
+        event_detail = {
+            "answers": {"text": [description], "answer_start": [context.find(description)]},
             "context": context,
             "id": event_data.get("UID", "No ID provided"),
             "question": question,
             "title": title
-        }]
+        }
 
         event_details.append(event_detail)
     return event_details

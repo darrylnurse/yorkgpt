@@ -39,21 +39,23 @@ def get_event_details(event_list):
 
         context = f"{title} {description} Start: {start}. End: {end}. Location: {location}."
         question = f"Provide details about CUNY York College's {title}."
-        event_detail = {
-            "answers": {"answer_start": [context.find(description)], "text": [description]},
+        event_detail = [{
+            "answers": 
+                {
+                    "text": [description],
+                    "answer_start": [context.find(description)]
+                },
             "context": context,
             "id": event_data.get("UID", "No ID provided"),
             "question": question,
             "title": title
-        }
+        }]
 
         event_details.append(event_detail)
     return event_details
 
 endpoints = [
-    "https://www.york.cuny.edu/++api++/admissions",
-    "https://www.york.cuny.edu/++api++/",
-    
+    "https://www.york.cuny.edu/++api++/about-york"
 ]
 
 event_list = get_event_list(endpoints)
@@ -63,7 +65,7 @@ if event_list:
     output_directory = "api_json"
     os.makedirs(output_directory, exist_ok=True)
     # Save event details to a JSON file
-    output_file = os.path.join(output_directory, "york_data.json")
+    output_file = os.path.join(output_directory, "about_york.json")
     with open(output_file, "w") as f:
         json.dump(event_details, f, indent=4)
     print(f"Event details have been saved to {output_file}")

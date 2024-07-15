@@ -1,0 +1,66 @@
+[
+    [
+        {
+            "answers": {
+                "text": [
+                    "Student Resource Guide for 2022 updated."
+                ],
+                "answer_start": [
+                    28
+                ]
+            },
+            "context": "Student Resource Guide 2022 Student Resource Guide for 2022 updated. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "e0f096f25097455cbfb2d87910448390",
+            "question": "Provide details about CUNY York College's Student Resource Guide 2022.",
+            "title": "Student Resource Guide 2022"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "Student Resources slider updated."
+                ],
+                "answer_start": [
+                    25
+                ]
+            },
+            "context": "Student Resources slider Student Resources slider updated. Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "d1615695ba484ae69dd698f40eee36ec",
+            "question": "Provide details about CUNY York College's Student Resources slider.",
+            "title": "Student Resources slider"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    ""
+                ],
+                "answer_start": [
+                    0
+                ]
+            },
+            "context": "Header Image  Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "d72a4f29b6984b31a0676c0a3ab7abd4",
+            "question": "Provide details about CUNY York College's Header Image.",
+            "title": "Header Image"
+        }
+    ],
+    [
+        {
+            "answers": {
+                "text": [
+                    "Brightspace Support Resources for Students"
+                ],
+                "answer_start": [
+                    12
+                ]
+            },
+            "context": "Brightspace Brightspace Support Resources for Students Start: No start time provided. End: No end time provided. Location: No location provided.",
+            "id": "584d5e753b724082bfb4eb1aa3cfa8fa",
+            "question": "Provide details about CUNY York College's Brightspace.",
+            "title": "Brightspace"
+        }
+    ]
+]

@@ -1,0 +1,814 @@
+{
+    "conversations": [
+        [
+            {
+                "from": "human",
+                "value": "Where is York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "York College is located in Jamaica, Queens, New York."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What does CUNY mean?"
+            },
+            {
+                "from": "gpt",
+                "value": "CUNY is an acronym for the City University of New York."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "In what state is York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "York College is in New York."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What resources are available for academic achievement at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Resources for academic achievement for students at all levels."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What does York College provide for the student body?"
+            },
+            {
+                "from": "gpt",
+                "value": "Offices and resources for the York College student body."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the goal of the programs at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "These programs aim to complement the academic, humanistic and professional needs of students."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "York College is a senior college in The City University of New York."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the Department of Health and Human Performance at York College dedicated to?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department of Health and Human Performance is dedicated to providing high-quality education and career preparation, responding to the needs and interests of our student body and to the surrounding community it serves."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the mission of the York College Nursing Program?"
+            },
+            {
+                "from": "gpt",
+                "value": "The mission of the York College Nursing Program is to offer a liberal arts-based experience to guide students in attaining the knowledge, skills, and values essential for professional nurse leaders and managers, including the ability to make sound judgments and address the health needs of diverse cultural groups within the urban community."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What degrees does the Department of Social Work at York College offer?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department of Social Work offers a Bachelor of Science in Social Work (BSSW) degree, which prepares students for entry-level generalist urban practice and provides a local and global context for understanding and addressing the experiences of people and societies. The department also offers a Master of Social Work (MSW) degree, which focuses on generalist practice in the first year, and a healthcare specialization in the advanced year."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the Department of Health Professions at York College focused on?"
+            },
+            {
+                "from": "gpt",
+                "value": "The programs offered by the Department of Health Professions aim to prepare students for various health careers that can help address health disparities in the community. Students may elect careers in clinical laboratory science, or physician assistant."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What makes the Department of Occupational Therapy at York College unique?"
+            },
+            {
+                "from": "gpt",
+                "value": "We are the only Occupational Therapy program in the CUNY system. We boast a culturally diverse student body, with all of the CUNY student, academic, and library resources at your disposal."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is chemistry concerned with?"
+            },
+            {
+                "from": "gpt",
+                "value": "Chemistry (from Egyptian kēme (chem), meaning 'earth') is the science concerned with the reactions, transformations, and aggregations of matter, as well as accompanying energy and entropy changes during such transformations."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What majors does the Department of History and Philosophy offer?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department of History and Philosophy offers majors in Anthropology, Black Studies, History, Interdisciplinary Studies, and Philosophy. It also houses Cultural Diversity courses."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What programs does the Department of Mathematics and Computer Science at York College offer?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department of Mathematics and Computer Science offers programs in Mathematics (BA and BS) and Computer Science (BS). The department also offers a minor in mathematics and a minor in computer science."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What does the Department of Mathematics and Computer Science at York College provide students?"
+            },
+            {
+                "from": "gpt",
+                "value": "Our department provides students with a strong academic foundation that will prepare them for the challenges of graduate study and careers."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What does the Biology Program at York College offer?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Biology Program provides academic experiences in the life sciences that meet a variety of student needs. The courses offered to cover a broad range of subjects from General Biology, Biostatistics, and Genetics, which all majors must take, to Organismic Biology, Molecular and Cell Biology, and Ecology."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the stance of the English Department at York College on hate and prejudice?"
+            },
+            {
+                "from": "gpt",
+                "value": "The English Department at York College abhors all expressions of hate and of prejudice, overt or tacit. We affirm our commitment to diversity and to inclusiveness and will continue to work to create safer spaces for our students and for each other. We stand in solidarity with our students."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What programs does the Department of Performing and Fine Arts at York College offer?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department of Performing and Fine Arts at York College offers degree programs in Studio Art, Art History, Music, Speech Communications / Theatre Arts, and Communications Technology."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the aim of the Department of World Languages, Literatures, and Humanities at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Through the study of the language, literature, and civilization of various cultures, the Department of World Languages, Literatures, and Humanities aims to enrich the education of all students and prepare them for various careers."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What programs are housed in the Department of Earth and Physical Sciences at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department of Earth and Physical Sciences houses programs in Astronomy (minor), Environmental Health Science, Environmental Science (minor), Earth Science Education, Geology, and Physics."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What do the programs in accounting and finance at York College focus on?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Department offers programs in accounting and finance that provide students with essential skills and knowledge for professional careers. These programs focus on areas like CPA exam preparation, financial asset valuation, and ethical understanding, while also fostering critical thinking and effective communication. The goal is to prepare students for leadership in various sectors and contribute to their communities."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the aim of the Business and Economics Department at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "The Business and Economics Department faculty aims to create knowledge and develop ethical leaders and builders of enterprises that will create value for stakeholders and society. The Department achieves this through our degree programs in Aviation, Business, Economics, Human Resource Management, Marketing, and Information Systems Management."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the procedure for reporting academic dishonesty at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Under this policy, all faculty members need to promptly report all incidents they consider to be academic dishonesty on the College’s Faculty Report Form and shall submit the Form to the College’s Academic Integrity Officer. A faculty member who suspects that a student has committed a violation of the CUNY Academic Integrity Policy shall review with the student the facts and circumstances of the suspected violation whenever possible prior to making a determination triggering the submission of a fillable Faculty Report Form. If the student agrees to the allegations/proposed sanctions by signing the form, the Academic Integrity Officer will file the form and notify the student that a copy has also been sent to the Dean of Student Development. Disciplinary actions such as suspension or expulsion may also be pursued. If the student does not agree to the allegations/proposed sanctions, there will be a follow-up investigation and proceedings before the College Academic Integrity Committee and/or the Faculty and Student Disciplinary Committee, during which the student will have an opportunity to be heard, the right to present witnesses on their behalf, and the right to question the faculty member accusing them of academic dishonesty. Rulings on student appeals by either the College Academic Integrity Committee or Faculty Disciplinary Committee are considered final."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Who is the Academic Integrity Officer at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "The College's Academic Integrity Officer is Professor Timothy Kirk. Please send Faculty Report Forms and all communication about integrity-related matters to integrity@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Can you give examples of academic dishonesty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Some examples of academic dishonesty include Cheating (e.g., using notes during a closed book exam; changing graded exam and returning it for more credit, etc.), Plagiarism (e.g., using another person’s words without quotation marks and footnotes attributing the words to their source; internet cut & paste techniques without proper attribution, etc.), Obtaining Unfair Advantage (e.g., stealing, reproducing or circulating examination materials; depriving other students of access to library materials, etc.), and Falsification of Records and Official Documents (e.g., forging signatures of authorization; falsifying information on an official college document, etc.)."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What does academic integrity mean at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Academic integrity is exercising honesty and responsibility in one's intellectual work. Both faculty and students are held to this standard at York. For students, this standard means that all assignments must be completed by the students themselves, without unauthorized aid. All exams and tests must also be completed without the use of unauthorized aid, and any documents submitted must not be falsified or forged. Additionally, since academic work often involves interacting with the ideas of others, academic integrity also means that students must appropriately credit the author(s) of any language or ideas taken from sources other than themselves, whether they are quoting the material directly or paraphrasing it into their own words. Crediting source material involves using a standard documentation format, as specified by the instructor (e.g., MLA or APA format, scientific reference formats)."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students contact the Welcome Center at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "You can visit Admissions virtually or in person and for further assistance, you can reach out to the Welcome Center."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What values does CUNY York College prioritize?"
+            },
+            {
+                "from": "gpt",
+                "value": "Located in Jamaica, Queens, CUNY York College is a senior college that values integrity; diversity; intellectual discovery and creativity; intentional interactions; self-reflection and accountability; and civic engagement."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What kind of education does York College offer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Provides students with the opportunity to obtain an excellent education in the arts, humanities, mathematics, and the natural sciences."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How does York College help students gain practical knowledge?"
+            },
+            {
+                "from": "gpt",
+                "value": "Encourage and assist our students to obtain internships with industry leaders and develop practical knowledge along with their classroom education."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What areas does York College prioritize for students?"
+            },
+            {
+                "from": "gpt",
+                "value": "Places Students First in Health and Physical Education, Health Professions, Nursing, Occupational Therapy, Social Work, and Teacher Education."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What services does York College provide for students with disabilities?"
+            },
+            {
+                "from": "gpt",
+                "value": "York College provides accommodations and services for students with disabilities or who may qualify to receive such services under the Americans with Disabilities Act and Section 504 of the Rehabilitation Act."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should students include on their check/money order?"
+            },
+            {
+                "from": "gpt",
+                "value": "Please complete check/money order completely and include name and EMPLID on the memo line."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Who can students contact for help with the payment plan at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "For additional help, please contact Nelnet at 888-470-6014 or visit the payment plan page."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students check their account balance on CUNYfirst?"
+            },
+            {
+                "from": "gpt",
+                "value": "Log into CUNYfirst Click on the 'Student Center' tile Click on the 'Financial Account' tile and select 'Account Balance'. The total due amount is shown."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Where can students find a guide to accepting their offer of Admission at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Please see the video for a step-by-step guide to accepting your CUNY York College offer of Admission."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should non-CUNY transfer students do after accepting their offer to York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Once you have accepted your offer and committed to enrolling at York, our Transfer Credit Evaluation Unit, in the Registrar office, will determine how your courses will transfer from your previous institution(s). You will be notified via email about the status of your transfer credit evaluation (TCE). Also, if you are a non-CUNY transfer and had courses in progress at your previous institution at the time you applied to York, you must submit your final official transcript (once grades have posted) along with proof of degree (if applicable) electronically to transfereval@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should students do after completing their applications?"
+            },
+            {
+                "from": "gpt",
+                "value": "Once you have completed your applications, please check the TO DO LIST in your CUNYFirst Student Center and promptly submit any requested documentation to the Financial Aid Office. For more information, please contact the Financial Aid Office at 718-262-2230 or via email at finaid@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is required to be considered for financial aid at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "A FAFSA is required to be considered for financial aid and it is used to apply for all federal financial aid, including the Federal Pell Grant, Federal Loans and Work-Study. Once you have completed the FAFSA, you may then apply for New York State financial aid, such as TAP (for NY State Residents only) in the same session or via the HESC website."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Do students need to prove residency?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you answered 'YES' to any of the questions above, then you DO NOT need to prove residency. If you answered 'NO' to any of the questions then carefully follow the steps as indicated by CUNY."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Can students be waived from the commitment deposit at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Note: If you applied for financial aid using the Free Application for Federal Student Aid (FAFSA) and your Student Aid Report (SAR) has an estimated family contribution (EFC) of 3000 or less, you may be waived from the commitment deposit. The sooner you file your FAFSA, the faster you will find out if you have been waived."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students accept their offer of admissions at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "To accept your offer of admissions, please log into your CUNYfirst account and navigate to your 'Student Center'."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What must all accepted students at York College do?"
+            },
+            {
+                "from": "gpt",
+                "value": "All accepted students are required to pay a non-refundable $100 commitment deposit. The commitment deposit will confirm your enrollment at York. It will be applied towards your tuition."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What are the immunization requirements for new students at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "All students MUST submit a completed immunization form (signed by a parent/guardian if under the age of 18) AND submit proof of immunizations/vaccines (2 Measles, 1 Mumps, and 1 Rubella after one year of age). The Student Health Services Center can be reached via email at StudHealthSvcCtr@york.cuny.edu for any inquiries or other types of communications."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should new students at York College prepare for?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ready for Advisement? As a new entering student at York College, you will have dedicated Academic Advisors to assist you during your onboarding process, and to prepare you for your first-semester coursework."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Who advises students with an undeclared major at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Those with an undeclared major will be advised by the Academic Advisement Center."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What event does York College organize to introduce new students to college life?"
+            },
+            {
+                "from": "gpt",
+                "value": "Thank you for choosing York College. We look forward to seeing you during our in-person New Student Orientation (NSO), which is an event designed to introduce you to the academic, cultural, and social aspects of student life at the college."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students contact the Student Health Services Center at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Email: StudHealthSvcCtr@york.cuny.edu with any questions or concerns."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What must incoming freshmen at York College submit?"
+            },
+            {
+                "from": "gpt",
+                "value": "All incoming freshmen MUST submit a completed immunization form with proof of vaccines/immunizations."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "When do students not need to prove residency at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you answered 'YES' to any of the questions above, then you DO NOT need to prove residency. If you answered 'NO' to any of the questions then carefully follow the steps as indicated by CUNY."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should students with college credits earned in high school do before moving forward with Advisement and Registration at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Did you earn any college credits while in high school? College credits can be earned through Advanced Placement (AP), International Baccalaureate (IB), College Now (CN), and other college courses you may have taken at any college for college credit while in high school. Before moving forward with Advisement and Registration, please be sure to submit official transcript(s) and/or score report(s) for all such courses to transfereval@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How should students submit proof of high school graduation to York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Please submit proof of high school graduation to the Admissions department using our Secure Document Portal."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students confirm their decision to attend York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Log onto your CUNYfirst account and navigate to the 'Student Center' to confirm your decision. You will be required to pay a $100* non-refundable commitment deposit. The fee will be applied toward your tuition."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students be waived from the $100 commitment deposit at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "*Note: Under certain circumstances, we may waive the $100 commitment deposit if you apply for the Free Application For Financial Aid (FAFSA) and your FAFSA Summary Submission has a low Student Aid Index (SAI)."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What happens after students are on the road to registering for first-semester classes at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Congratulations, you are on the road to registering for first-semester classes. Before you do, however, you will receive an email invitation from Academic Advisement for a meeting. One of our advisors will guide you in choosing classes to set you on the right track for academic success. For questions, please reach out to the Academic Advisement directly via email at FreshmanAdvising@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Where can students find help activating their CUNYFirst account?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you need help activating your CUNYFirst account, please follow the steps in this video. Keep your CUNYfirst ID handy. You will no longer be able to use your Social Security number to access your student records."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is CUNYfirst for?"
+            },
+            {
+                "from": "gpt",
+                "value": "CUNYfirst is your official student account through which you will register for classes, view your financial aid, and pay your bill."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Who should students contact if they need assistance connecting to their CUNYfirst account?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you need assistance connecting to your account, please contact the IT Help Desk via Y-connect or call them at 718-262-5311."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Where can students find up-to-date information regarding their admission to York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "This page has been created to provide you with the most up-to-date information regarding your admission to York College. Please visit often for important updates."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What are the last two steps for new students at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "The last two steps for you as a new student are to enroll in Orientation and our First-Year Experience (FYE) Program."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the purpose of the orientation session at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "At York College, we use our orientation session to give you campus competence and campus confidence. You'll learn where classes are held, what professors will expect from you, and the school resources and support available. The First-Year Experience (FYE) Program uses a comprehensive approach to guide you through an extensive program that assists you in acclimating to college life—both academically and through co-curricular activities. Our goal is to make you a member of the York family from the moment you step on campus and help you find ways to share your gifts and talents inside and outside the classroom."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is required to be considered for financial aid at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "A FAFSA is required to be considered for financial aid and it is used to apply for all federal financial aid, including the Federal Pell Grant, Federal Loans and Work-Study. Once you have completed the FAFSA, you may then apply for New York State financial aid, such as TAP (for NY State Residents only) in the same session or via the HESC website."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should students do to apply for financial aid at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you think you qualify and need financial aid to help pay for college, you must file the Free Application for 2024-25 Federal Student Aid (FAFSA) as soon as possible! Need help? Join us for one of our upcoming FAFSA workshops."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should students do after completing their applications?"
+            },
+            {
+                "from": "gpt",
+                "value": "Once you have completed your applications, please check the TO DO LIST in your CUNYFirst Student Center and promptly submit any requested documentation to the Financial Aid Office. For more information, please contact the Financial Aid Office at 718-262-2230 or via email at finaid@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students confirm their decision to attend York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Please confirm your decision to attend York College by completing this form."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can international students pay their tuition at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Online: An Electronic Funds Transfer/eCheck Credit Card and Debit Card Click here to initiate payment. CUNY offers a new way for international students to pay tuition... in local currency! For additional information, please go to the International Payments FAQs."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students enroll in a payment plan at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Log into your CUNYfirst account Click on the 'Student Center' tile Click on the 'Financial Account' tile and select 'Payment Plan'. For additional help, please contact Nelnet at 888.470.6014 or visit the payment plan page."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How can students check their account balance on CUNYfirst?"
+            },
+            {
+                "from": "gpt",
+                "value": "Log into CUNYfirst Click on the 'Student Center' tile Click on the 'Financial Account' tile and select 'Account Balance'. The total due amount is shown."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What will students use CUNYfirst for?"
+            },
+            {
+                "from": "gpt",
+                "value": "CUNYfirst will be your student account to enroll in classes and view billing information."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "How should students keep their CUNYfirst ID?"
+            },
+            {
+                "from": "gpt",
+                "value": "Claim your account in CUNYfirst account CUNYfirst system will send messages only to your York College email address. Make sure that you have activated your York email account. CUNYfirst will be your student account to enroll in classes and view your billing information. After claiming your account, it is imperative that you keep your CUNYfirst ID (EMPLID) handy."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should students do if their CUNYfirst account does not work properly?"
+            },
+            {
+                "from": "gpt",
+                "value": "Contact the IT Help Desk by using Y-connect or calling (718) 262-5311, if your account does not appear to be working properly."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What must new students submit to the Student Health Services Center?"
+            },
+            {
+                "from": "gpt",
+                "value": "All students MUST submit a completed immunization form (and signed by a parent/guardian if under the age of 18) AND submit proof of immunizations/vaccines (2 Measles, 1 Mumps, and 1 Rubella after one year of age). The Student Health Services Center can be reached via email at StudHealthSvcCtr@york.cuny.edu for any inquiries or other types of communications."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What should new students at York College prepare for?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ready for Advisement? As a new entering student at York College, you will have dedicated Academic Advisors to assist you during your onboarding process, and to prepare you for your first-semester coursework."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What will students receive before registering for first-semester classes at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "Congratulations, you are on the road to registering for first-semester classes. Before you do, however, you will receive an email invitation from Academic Advisement for a meeting. One of our advisors will guide you through choosing classes and set you on the right track for academic success. Please reach out to the Academic Advisement directly via email at FreshmanAdvising@york.cuny.edu."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Where should students go for help activating their CUNYFirst account?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you need help activating your CUNYFirst account, please follow the steps in this video. Keep your CUNYfirst ID handy. You will no longer be able to use your Social Security number to access your student records."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is CUNYfirst for?"
+            },
+            {
+                "from": "gpt",
+                "value": "CUNYfirst is your official student account through which you will register for classes, view your financial aid, and pay your bill."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Who should students contact if they need assistance connecting to their CUNYfirst account?"
+            },
+            {
+                "from": "gpt",
+                "value": "If you need assistance connecting to your account, please contact the IT Help Desk via Y-connect or call them at 718-262-5311."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "Where can students find up-to-date information regarding their admission to York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "This page has been created to provide you with the most up-to-date information regarding your admission to York College. Please visit often for important updates."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What are the last two steps for new students at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "The last two steps for you as a new student are to enroll in Orientation and our First-Year Experience (FYE) Program."
+            }
+        ],
+        [
+            {
+                "from": "human",
+                "value": "What is the purpose of the orientation session at York College?"
+            },
+            {
+                "from": "gpt",
+                "value": "At York College, we use our orientation session to give you campus competence and campus confidence. You'll learn where classes are held, what professors will expect from you, and the school resources and support available. The First-Year Experience (FYE) Program uses a comprehensive approach to guide you through an extensive program that assists you in acclimating to college life—both academically and through co-curricular activities. Our goal is to make you a member of the York family from the moment you step on campus and help you find ways to share your gifts and talents inside and outside the classroom."
+            }
+        ]
+    ]
+}

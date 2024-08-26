@@ -46,6 +46,8 @@ endpoints = [
     "academics/integrity",
     "academics/integrity/academic-integrity-committee",
     "academics/policies",
+    "academics/college-now",
+    "academics/york-stem-academy",
     "admissions",
     "admissions/new",
     "admissions/freshman",
@@ -56,12 +58,44 @@ endpoints = [
     "admissions/international/cardinal-buddy",
     "admissions/international/graduate-international-admissions",
     "admissions/international/apply-now",
+    "admissions/others",
+    "welcome-center",
+    "academic-affairs",
+    "academics/navigate",
+    "welcome-center/faqs",
+    "cuny-explorers",
+    "undergraduate-research",
+    "university-skills-immersion-program",
+    "news/2018/the-york-college-online-bookstore",
+    "advisement",
+    "advisement/degreeworks",
+    "registrar",
+    "registrar/instructions/schedule-builder",
+    "scholarship",
+    "scholarship/overview",
+    "scholarship/dream-us",
+    "scholarship/new-york-state-excelsior-scholarship",
+    "arts-and-sciences",
+    "current-student",
+    "osas",
+    "osas/committee-on-academic-policy-and-standards",
+    "osas/petitions-appeals",
+    "osas/sap",
+    "osas/deadlines",
+    "summer",
+    "aviation-institute",
+ 
 ]
 
 responses = get_event_list(endpoints)
 
 all_values = []
 for response in responses:
-    all_values.extend(find_values(response, 'plaintext', 'title'))
+   desc = find_values(response, 'description', 'title')
+   plaintext = find_values(response, 'plaintext', 'title')
+   title = find_values(response, 'title', 'title')
+   all_values.extend(desc)
+   all_values.extend(plaintext)
+   all_values.extend(title)
 
 print(all_values)

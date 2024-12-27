@@ -1,6 +1,6 @@
 # YorkGPT
 
-YorkGPT is a chat-based LLM application designed to inform students, faculty and staff of information about CUNY York College.
+The YorkGPT project seeks to implement a ChatGPT-like solution in the York College (YC) technological ecosystem. By utilizing Finetuning to create a custom Large Language Model (LLM) and Retrieval Augmented Generation (RAG) to supplement it with time sensitive and accurate dynamic data, YorkGPT will serve as an on-demand service to assist students, faculty and staff.
 
 # YorkGPT is in three main places:
 * [YorkGPT Backend - Github](https://github.com/darrylnurse/yorkgpt-server)

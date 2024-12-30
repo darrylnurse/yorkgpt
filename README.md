@@ -20,3 +20,5 @@ The documentation for YorkGPT can be found here:
 # Project Collaborators
 * Darryl Nurse
 * Shashank Sigdel
+* Ngawang Samdrup
+* 

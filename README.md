@@ -1,5 +1,3 @@
-hello testing!
-
 # YorkGPT
 
 The YorkGPT project seeks to implement a ChatGPT-like solution in the York College (YC) technological ecosystem. By utilizing Finetuning to create a custom Large Language Model (LLM) and Retrieval Augmented Generation (RAG) to supplement it with time sensitive and accurate dynamic data, YorkGPT will serve as an on-demand service to assist students, faculty and staff.

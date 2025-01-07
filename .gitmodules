@@ -1,6 +1,0 @@
-[submodule "yorkgpt-client"]
-	path = yorkgpt-client
-	url = https://github.com/darrylnurse/yorkgpt-client.git
-[submodule "yorkgpt-server"]
-	path = yorkgpt-server
-	url = https://github.com/darrylnurse/yorkgpt-server.git

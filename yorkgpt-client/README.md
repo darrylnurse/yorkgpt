@@ -1,0 +1,1 @@
+This repository houses the codebase for the YorkGPT Frontend.

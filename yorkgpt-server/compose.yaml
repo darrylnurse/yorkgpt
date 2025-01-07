@@ -1,0 +1,44 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: app.Dockerfile
+    image: darrylnurse/yorkgpt:v0.1
+    container_name: yorkgpt-server
+    volumes:
+      - ./src:/app/src
+    ports:
+      - 3000:3000
+    tty: true
+    environment:
+      - EMBEDDING_API_KEY_FILE=/run/secrets/embedding_api_key
+      - HF_TOKEN=/run/secrets/huggingface_token
+    privileged: true
+    restart: unless-stopped
+    secrets:
+      - embedding_api_key
+      - huggingface_token
+    depends_on:
+      - vectordb
+  
+  vectordb:
+    image: pgvector/pgvector:pg16
+    container_name: vector-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=vectordb
+      - POSTGRES_USER=rag
+      - POSTGRES_PASSWORD=langchain
+      - POSTGRES_HOST_AUTH_METHOD=trust
+
+  historydb:
+    image: redis:7.4.1
+    container_name: history-db
+    restart: unless-stopped
+    command: redis-server
+
+secrets:
+  embedding_api_key:
+    file: ./embedding_api_key.txt
+  huggingface_token:
+    file: ./huggingface_token.txt

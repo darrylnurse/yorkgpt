@@ -4,8 +4,8 @@ The YorkGPT project seeks to implement a ChatGPT-like solution in the York Colle
 
 # YorkGPT is in three main places:
 
-- [YorkGPT Backend - Github](https://github.com/darrylnurse/yorkgpt-server)
-- [YorkGPT Frontend - Github](https://github.com/darrylnurse/yorkgpt-client)
+- [YorkGPT Backend - Github](https://github.com/darrylnurse/yorkgpt/tree/main/yorkgpt-server)
+- [YorkGPT Frontend - Github](https://github.com/darrylnurse/yorkgpt/tree/main/yorkgpt-client)
 - [YorkGPT Model - Google Colab](https://colab.research.google.com/drive/1jL6Juq0GLGlmfUbHdUdO19rxSomi5oFn)
 
 You can access the Google Colab from any account, but to run it with the required runtime (H100), you need to be logged in to the YorkGPT Google account. This account is temporarily provisioned with Google Colab Pro+. Please contact me for login credentials.

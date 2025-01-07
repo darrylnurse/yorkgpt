@@ -42,7 +42,9 @@ Run ```git branch``` again and you should see that you are on the new branch. Be
 
 *Now* let's make some changes. 
 
-Go to [README.md](../README.md) and add your name to the list of Project Collaborators. Yep, that's all (for now).
+Edit the [README.md](../README.md) file in the YorkGPT folder on your machine and add your name to the list of Project Collaborators. Yep, that's all (for now).
+
+If you hate yourself, try editing the file using nano or (even worse) vim. I will leave that up to you to learn those tools.
 
 Time to push your code from Git to Github.
 

@@ -20,7 +20,7 @@ The documentation for YorkGPT can be found here:
 
 # Project Collaborators
 
-- Darryl Nurse
+- Darryl Nurse - darrvn@outlook.com
 - Shashank Sigdel
 - Ngawang Samdrup
 - Haider Ali

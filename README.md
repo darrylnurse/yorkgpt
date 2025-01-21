@@ -24,3 +24,4 @@ The documentation for YorkGPT can be found here:
 - Shashank Sigdel
 - Ngawang Samdrup
 - Haider Ali
+- Kyame Israel
